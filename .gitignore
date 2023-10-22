@@ -22,3 +22,5 @@ plugin/notarize/AuditInfo.json
 plugin/notarize/ExportOptions.plist
 plugin/notarize/RequestInfo.plist
 plugin/notarize/UploadInfo.plist
+
+.idea/
