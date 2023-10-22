@@ -23,4 +23,10 @@ plugin/notarize/ExportOptions.plist
 plugin/notarize/RequestInfo.plist
 plugin/notarize/UploadInfo.plist
 
+static/cmake_install.cmake
+static/CMakeCache.txt
+static/Makefile
+static/CMakeFiles/
+static/lib/
+
 .idea/
