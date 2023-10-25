@@ -140,7 +140,7 @@ if(${BACKEND})
 endif()
 
 
-add_definitions(-DXPLM200=1 -DXPLM210=1 -DXPLM300=1 -DXPLM301=1 -DXPLM302=1)
+add_definitions(-DXPLM200=1 -DXPLM210=1 -DXPLM300=1 -DXPLM301=1 -DXPLM302=1 -DXPLANE)
 if(APPLE)
 	add_definitions(-DAPL=1 -DIBM=0 -DLIN=0)
 elseif(WIN32)
